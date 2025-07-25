@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": null,
+      "title": "2025 NFL Draft: Pro execs, scouts, coaches rank and evaluate the top 18 prospects in this QB class - NFL.com",
+      "description": "The 2025 NFL Draft's quarterback class has been analyzed by draftniks for months, but what do the actual teams think of this crop? Tom Pelissero reveals QB prospect rankings and evaluations based on dozens of conversations with league executives, scouts a",
+      "url": "https://www.nfl.com/news/2025-nfl-draft-pro-execs-scouts-coaches-rank-and-evaluate-the-top-18-prospects-in-this-qb-class",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/eakdzn8igwxgncmwlkao",
+      "publishedAt": "2025-04-22T22:20:00Z",
+      "content": null
+    },
+    {
+      "source": { 
+        "id": null,
+        "name": "9News.com KUSA"
+      },
+      "author": "Megan Divers",
+      "title": "Former child actor Sophie Nyweide dies at 24 - 9News",
+      "description": "Nyweide began her acting career at age 5 and appeared in films like \"Mammoth,\" \"An Invisible Sign\" and \"Noah.\"",
+      "url": "https://www.9news.com/article/news/nation-world/child-actor-sophie-nyweide-dies-at-24/507-73894fd0-ab74-4ba8-aff2-5f91cc8a6d02",
+      "urlToImage": "https://media.9news.com/assets/CCT/images/d8a7eed0-e871-4401-ae04-76c31bec0b45/20250422T210024/d8a7eed0-e871-4401-ae04-76c31bec0b45_1140x641.jpg",
+      "publishedAt": "2025-04-22T21:33:00Z",
+      "content": "NEW YORK Sophie Nyweide, a former child actor who appeared in films alongside Jessica Alba, Michelle Williams and Russell Crowe, died on Monday, April 14, according to an obituary published by her fa… [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Action Network"
+      },
+      "author": "Michael Arinze",
+      "title": "Bucks vs Pacers Odds, Prediction: NBA Playoffs Game 2 Picks - Action Network",
+      "description": "Read for our Milwaukee Bucks vs Indiana Pacers Game 2 odds, predictions, and picks in the NBA Playoffs on Tuesday, April 22.",
+      "url": "https://www.actionnetwork.com/nba/milwaukee-bucks-vs-indiana-pacers-prediction-odds-pick-nba-playoffs-game-2-tuesday-april-22-qs",
+      "urlToImage": "https://images.actionnetwork.com/blog/2025/04/BucksPacersGm2.jpg",
+      "publishedAt": "2025-04-22T20:16:00Z",
+      "content": "The Milwaukee Bucks (0-1) and Indiana Pacers (1-0) will meet in Game 2 of their first round NBA Playoff series tonight. Tipoff is set for 7 p.m. ET at the Gainbridge Fieldhouse in Indianapolis, India… [+3892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "James Hibberd",
+      "title": "‘Andor’ Season 2 Becomes the Highest Rated Star Wars TV Show or Movie - The Hollywood Reporter",
+      "description": "The current Rotten Tomatoes score for the new season of the acclaimed series is now the highest among all live-action Star Wars projects. Also: Here's the Star Wars title that scores the lowest.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/andor-season-2-reviews-rotten-tomatoes-score-1236197849/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/04/PGM2-143820_R.jpeg?crop=0px%2C215px%2C8479px%2C4745px&resize=1440%2C810",
+      "publishedAt": "2025-04-22T17:23:28Z",
+      "content": "Andor might not have any Jedi Knight characters, but the Force is strong with the new season of the Star Wars prequel series nonetheless. \r\nThe acclaimed Tony Gilroy drama’s second season — which con… [+3453 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Carla K. Johnson",
+      "title": "Advanced cancers returned to prepandemic levels, according to a reassuring report - AP News",
+      "description": "Delays in cancer screenings brought on by COVID-19 aren’t making a huge impact on cancer statistics. Experts who track the data say cancer death rates continue to decline. And a new report published Monday in the journal Cancer shows there weren’t huge shifts…",
+      "url": "https://apnews.com/article/cancer-screening-covid-pandemic-cb8fb5330716db895d5c61125544ae78",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a87ca5c/2147483647/strip/true/crop/1730x973+0+150/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2Ffa%2Fe0461a33d24e37eefb6ebf6782e9%2Fbfd8c504a45240e28e6adba3447f66e6",
+      "publishedAt": "2025-04-21T21:27:00Z",
+      "content": "Many Americans were forced to postpone cancer screenings colonoscopies, mammograms and lung scans for several months in 2020 as COVID-19 overwhelmed doctors and hospitals.\r\nBut that delay in screenin… [+1969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "The Associated Press",
+      "title": "FACT FOCUS: Examining RFK Jr.'s claims about measles, autism and diet as head of HHS - Yahoo",
+      "description": "In just two months as the federal health secretary, Robert F. Kennedy Jr. has made sweeping changes to the Department of Health and Human Services — and its ...",
+      "url": "https://www.yahoo.com/news/fact-focus-examining-rfk-jr-174916394.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/poPlgBJpMeKrkM0ImbXbkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/9ac8ad0d984e2e380e02cb6c05a02b87",
+      "publishedAt": "2025-04-21T17:49:16Z",
+      "content": "WASHINGTON (AP) In just two months as the federal health secretary, Robert F. Kennedy Jr. has made sweeping changes to the Department of Health and Human Services and its priorities.\r\nHes dismissed 1… [+10275 chars]"
+    }
+  ]
+}
